@@ -1,0 +1,80 @@
+2025-06-09 02:09:16,891 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-09 02:09:31,899 - INFO - Navigated to https://conspicuous.com/jobs/
+2025-06-09 02:09:32,627 - INFO - Job listings tree fully loaded
+2025-06-09 02:09:32,627 - INFO - Page ready for scraping.
+2025-06-09 02:25:54,791 - INFO - Navigated to https://conspicuous.com/jobs/
+2025-06-09 02:25:55,869 - INFO - Job listings loaded
+2025-06-09 02:25:55,870 - INFO - At page 1 (no scraping yet)
+2025-06-09 02:25:56,114 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:25:59,144 - INFO - At page 2 (no scraping yet)
+2025-06-09 02:25:59,352 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:26:02,427 - INFO - At page 3 (no scraping yet)
+2025-06-09 02:26:02,947 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:26:05,976 - INFO - At page 4 (no scraping yet)
+2025-06-09 02:26:06,165 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:26:09,196 - INFO - At page 5 (no scraping yet)
+2025-06-09 02:26:09,358 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:26:12,425 - INFO - Pagination complete
+2025-06-09 02:32:05,843 - INFO - Navigated to https://conspicuous.com/jobs/
+2025-06-09 02:32:07,077 - INFO - Job listings loaded
+2025-06-09 02:32:07,078 - INFO - At page 1 (no scraping yet)
+2025-06-09 02:32:07,473 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:10,535 - INFO - At page 2 (no scraping yet)
+2025-06-09 02:32:10,723 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:13,753 - INFO - At page 3 (no scraping yet)
+2025-06-09 02:32:14,322 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:17,382 - INFO - At page 4 (no scraping yet)
+2025-06-09 02:32:17,609 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:20,670 - INFO - At page 5 (no scraping yet)
+2025-06-09 02:32:20,832 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:23,864 - INFO - At page 6 (no scraping yet)
+2025-06-09 02:32:24,075 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:27,122 - INFO - At page 7 (no scraping yet)
+2025-06-09 02:32:27,318 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:30,389 - INFO - At page 8 (no scraping yet)
+2025-06-09 02:32:30,736 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:33,803 - INFO - At page 9 (no scraping yet)
+2025-06-09 02:32:34,026 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:37,088 - INFO - At page 10 (no scraping yet)
+2025-06-09 02:32:37,321 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:40,373 - INFO - At page 11 (no scraping yet)
+2025-06-09 02:32:40,539 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:43,609 - INFO - At page 12 (no scraping yet)
+2025-06-09 02:32:43,839 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:46,947 - INFO - At page 13 (no scraping yet)
+2025-06-09 02:32:47,267 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:50,351 - INFO - At page 14 (no scraping yet)
+2025-06-09 02:32:50,576 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:53,646 - INFO - At page 15 (no scraping yet)
+2025-06-09 02:32:53,876 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:32:56,947 - INFO - At page 16 (no scraping yet)
+2025-06-09 02:32:57,185 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:00,212 - INFO - At page 17 (no scraping yet)
+2025-06-09 02:33:00,399 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:03,449 - INFO - At page 18 (no scraping yet)
+2025-06-09 02:33:03,748 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:06,818 - INFO - At page 19 (no scraping yet)
+2025-06-09 02:33:07,035 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:10,082 - INFO - At page 20 (no scraping yet)
+2025-06-09 02:33:10,277 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:13,353 - INFO - At page 21 (no scraping yet)
+2025-06-09 02:33:13,517 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:16,591 - INFO - At page 22 (no scraping yet)
+2025-06-09 02:33:16,788 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:19,854 - INFO - At page 23 (no scraping yet)
+2025-06-09 02:33:20,157 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:23,223 - INFO - At page 24 (no scraping yet)
+2025-06-09 02:33:23,418 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:26,490 - INFO - At page 25 (no scraping yet)
+2025-06-09 02:33:26,718 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:29,798 - INFO - At page 26 (no scraping yet)
+2025-06-09 02:33:30,118 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:33,144 - INFO - At page 27 (no scraping yet)
+2025-06-09 02:33:33,313 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:36,381 - INFO - At page 28 (no scraping yet)
+2025-06-09 02:33:36,672 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:39,744 - INFO - At page 29 (no scraping yet)
+2025-06-09 02:33:39,990 - INFO - Clicked forward arrow to go to next page
+2025-06-09 02:33:43,047 - INFO - At page 30 (no scraping yet)
+2025-06-09 02:33:43,107 - INFO - No forward arrow found; last page reached
+2025-06-09 02:33:43,107 - INFO - Pagination complete

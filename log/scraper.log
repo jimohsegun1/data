@@ -1,0 +1,815 @@
+2025-05-28 05:06:51,891 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=1
+2025-05-28 05:07:02,484 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=1
+2025-05-28 05:07:03,487 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=2
+2025-05-28 05:07:12,570 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=2
+2025-05-28 05:07:13,572 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=3
+2025-05-28 05:07:21,683 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=3
+2025-05-28 05:07:22,684 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=4
+2025-05-28 05:07:31,837 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=4
+2025-05-28 05:07:32,838 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=5
+2025-05-28 05:07:43,533 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=5
+2025-05-28 05:07:44,534 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=6
+2025-05-28 05:07:56,591 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=6
+2025-05-28 05:07:57,593 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=7
+2025-05-28 05:08:08,016 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=7
+2025-05-28 05:08:09,017 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=8
+2025-05-28 05:08:18,588 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=8
+2025-05-28 05:08:19,590 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=9
+2025-05-28 05:08:28,979 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=9
+2025-05-28 05:08:29,979 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=10
+2025-05-28 05:08:38,838 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=10
+2025-05-28 05:08:39,848 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=11
+2025-05-28 05:08:48,788 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=11
+2025-05-28 05:08:49,789 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=12
+2025-05-28 05:09:07,661 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=12
+2025-05-28 05:09:08,662 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=13
+2025-05-28 05:09:18,620 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=13
+2025-05-28 05:09:19,622 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=14
+2025-05-28 05:09:29,376 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=14
+2025-05-28 05:09:30,379 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=15
+2025-05-28 05:09:39,555 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=15
+2025-05-28 05:09:40,557 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=16
+2025-05-28 05:09:49,612 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=16
+2025-05-28 05:09:50,613 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=17
+2025-05-28 05:09:59,491 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=17
+2025-05-28 05:10:00,493 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=18
+2025-05-28 05:10:09,273 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=18
+2025-05-28 05:10:10,275 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=19
+2025-05-28 05:10:18,610 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=19
+2025-05-28 05:10:19,613 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=20
+2025-05-28 05:10:28,548 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=20
+2025-05-28 05:10:29,550 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=21
+2025-05-28 05:10:39,813 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=21
+2025-05-28 05:10:40,815 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=22
+2025-05-28 05:10:49,761 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=22
+2025-05-28 05:10:50,773 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=23
+2025-05-28 05:11:02,694 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=23
+2025-05-28 05:11:03,696 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=24
+2025-05-28 05:11:11,950 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=24
+2025-05-28 05:11:12,953 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=25
+2025-05-28 05:11:21,779 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=25
+2025-05-28 05:11:22,828 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=26
+2025-05-28 05:11:31,137 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=26
+2025-05-28 05:11:32,139 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=27
+2025-05-28 05:11:40,404 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=27
+2025-05-28 05:11:41,405 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=28
+2025-05-28 05:11:49,483 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=28
+2025-05-28 05:11:50,484 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=29
+2025-05-28 05:11:58,647 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=29
+2025-05-28 05:11:59,660 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=30
+2025-05-28 05:12:09,279 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=30
+2025-05-28 05:12:10,280 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=31
+2025-05-28 05:12:18,959 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=31
+2025-05-28 05:12:19,961 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=32
+2025-05-28 05:12:29,768 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=32
+2025-05-28 05:12:30,787 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=33
+2025-05-28 05:12:39,449 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=33
+2025-05-28 05:12:40,483 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=34
+2025-05-28 05:12:48,771 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=34
+2025-05-28 05:12:49,772 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=35
+2025-05-28 05:12:58,613 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=35
+2025-05-28 05:12:59,687 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=36
+2025-05-28 05:13:08,752 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=36
+2025-05-28 05:13:09,753 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=37
+2025-05-28 05:13:18,303 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=37
+2025-05-28 05:13:19,306 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=38
+2025-05-28 05:13:27,452 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=38
+2025-05-28 05:13:28,453 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=39
+2025-05-28 05:13:36,863 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=39
+2025-05-28 05:13:37,865 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=40
+2025-05-28 05:13:46,603 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=40
+2025-05-28 05:13:47,941 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=41
+2025-05-28 05:13:56,466 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=41
+2025-05-28 05:13:57,468 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=42
+2025-05-28 05:14:06,838 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=42
+2025-05-28 05:14:07,842 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=43
+2025-05-28 05:14:16,975 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=43
+2025-05-28 05:14:17,992 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=44
+2025-05-28 05:14:26,295 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=44
+2025-05-28 05:14:27,296 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=45
+2025-05-28 05:14:35,666 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=45
+2025-05-28 05:14:36,667 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=46
+2025-05-28 05:14:44,616 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=46
+2025-05-28 05:14:45,619 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=47
+2025-05-28 05:14:54,548 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=47
+2025-05-28 05:14:55,568 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=48
+2025-05-28 05:15:04,205 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=48
+2025-05-28 05:15:05,206 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=49
+2025-05-28 05:15:13,476 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=49
+2025-05-28 05:15:14,479 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=50
+2025-05-28 05:15:22,772 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=50
+2025-05-28 05:15:23,774 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=51
+2025-05-28 05:15:32,841 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=51
+2025-05-28 05:15:33,841 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=52
+2025-05-28 05:15:42,528 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=52
+2025-05-28 05:15:43,531 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=53
+2025-05-28 05:15:51,883 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=53
+2025-05-28 05:15:52,885 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=54
+2025-05-28 05:16:01,567 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=54
+2025-05-28 05:16:02,579 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=55
+2025-05-28 05:16:10,563 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=55
+2025-05-28 05:16:11,566 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=56
+2025-05-28 05:16:20,598 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=56
+2025-05-28 05:16:21,600 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=57
+2025-05-28 05:16:30,276 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=57
+2025-05-28 05:16:31,277 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=58
+2025-05-28 05:16:39,560 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=58
+2025-05-28 05:16:40,562 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=59
+2025-05-28 05:16:50,528 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=59
+2025-05-28 05:16:51,602 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=60
+2025-05-28 05:16:59,277 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=60
+2025-05-28 05:17:00,279 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=61
+2025-05-28 05:17:08,760 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=61
+2025-05-28 05:17:09,761 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=62
+2025-05-28 05:17:17,838 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=62
+2025-05-28 05:17:18,840 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=63
+2025-05-28 05:17:27,604 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=63
+2025-05-28 05:17:28,606 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=64
+2025-05-28 05:17:36,456 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=64
+2025-05-28 05:17:37,473 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=65
+2025-05-28 05:17:45,536 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=65
+2025-05-28 05:17:46,538 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=66
+2025-05-28 05:17:55,209 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=66
+2025-05-28 05:17:56,211 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=67
+2025-05-28 05:18:03,982 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=67
+2025-05-28 05:18:04,984 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=68
+2025-05-28 05:18:13,085 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=68
+2025-05-28 05:18:14,088 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=69
+2025-05-28 05:18:22,500 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=69
+2025-05-28 05:18:23,502 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=70
+2025-05-28 05:18:32,695 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=70
+2025-05-28 05:18:33,696 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=71
+2025-05-28 05:18:41,531 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=71
+2025-05-28 05:18:42,533 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=72
+2025-05-28 05:18:50,684 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=72
+2025-05-28 05:18:51,686 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=73
+2025-05-28 05:18:59,848 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=73
+2025-05-28 05:19:00,850 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=74
+2025-05-28 05:19:11,261 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=74
+2025-05-28 05:19:12,262 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=75
+2025-05-28 05:19:33,089 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=75
+2025-05-28 05:19:34,093 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=76
+2025-05-28 05:19:44,136 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=76
+2025-05-28 05:19:45,137 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=77
+2025-05-28 05:19:53,745 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=77
+2025-05-28 05:19:54,747 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=78
+2025-05-28 05:20:03,533 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=78
+2025-05-28 05:20:04,535 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=79
+2025-05-28 05:20:12,771 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=79
+2025-05-28 05:20:13,773 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=80
+2025-05-28 05:20:21,134 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=80
+2025-05-28 05:20:22,135 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=81
+2025-05-28 05:20:30,041 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=81
+2025-05-28 05:20:31,042 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=82
+2025-05-28 05:20:39,144 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=82
+2025-05-28 05:20:40,146 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=83
+2025-05-28 05:20:48,814 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=83
+2025-05-28 05:20:49,817 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=84
+2025-05-28 05:20:59,294 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=84
+2025-05-28 05:21:00,296 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=85
+2025-05-28 05:21:08,139 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=85
+2025-05-28 05:21:09,140 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=86
+2025-05-28 05:21:16,842 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=86
+2025-05-28 05:21:17,844 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=87
+2025-05-28 05:21:25,166 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=87
+2025-05-28 05:21:26,167 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=88
+2025-05-28 05:21:34,070 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=88
+2025-05-28 05:21:35,072 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=89
+2025-05-28 05:21:42,746 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=89
+2025-05-28 05:21:43,747 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=90
+2025-05-28 05:21:51,628 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=90
+2025-05-28 05:21:52,630 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=91
+2025-05-28 05:22:00,339 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=91
+2025-05-28 05:22:01,340 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=92
+2025-05-28 05:22:09,911 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=92
+2025-05-28 05:22:10,912 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=93
+2025-05-28 05:22:18,660 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=93
+2025-05-28 05:22:19,662 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=94
+2025-05-28 05:22:28,092 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=94
+2025-05-28 05:22:29,093 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=95
+2025-05-28 05:22:38,990 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=95
+2025-05-28 05:22:39,992 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=96
+2025-05-28 05:22:51,124 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=96
+2025-05-28 05:22:52,125 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=97
+2025-05-28 05:22:59,820 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=97
+2025-05-28 05:23:00,822 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=98
+2025-05-28 05:23:09,149 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=98
+2025-05-28 05:23:10,151 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=99
+2025-05-28 05:23:19,354 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=99
+2025-05-28 05:23:20,354 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=100
+2025-05-28 05:23:28,244 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=100
+2025-05-28 05:23:29,247 - INFO - \u2705 Scraping complete. Total jobs scraped: 130
+2025-05-28 09:24:07,865 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=1
+2025-05-28 09:24:15,349 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=1
+2025-05-28 09:24:16,354 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=2
+2025-05-28 09:24:22,496 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=2
+2025-05-28 09:24:23,552 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=3
+2025-05-28 09:24:30,372 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=3
+2025-05-28 09:24:31,675 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=4
+2025-05-28 09:24:38,441 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=4
+2025-05-28 09:24:39,453 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=5
+2025-05-28 09:24:45,936 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=5
+2025-05-28 09:24:46,953 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=6
+2025-05-28 09:24:53,329 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=6
+2025-05-28 09:24:54,358 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=7
+2025-05-28 09:25:01,868 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=7
+2025-05-28 09:25:02,882 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=8
+2025-05-28 09:25:09,371 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=8
+2025-05-28 09:25:10,399 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=9
+2025-05-28 09:25:16,475 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=9
+2025-05-28 09:25:17,490 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=10
+2025-05-28 09:25:24,883 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=10
+2025-05-28 09:25:25,900 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=11
+2025-05-28 09:25:32,618 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=11
+2025-05-28 09:25:33,621 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=12
+2025-05-28 09:25:39,657 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=12
+2025-05-28 09:25:40,690 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=13
+2025-05-28 09:25:46,451 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=13
+2025-05-28 09:25:47,454 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=14
+2025-05-28 09:25:53,782 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=14
+2025-05-28 09:25:54,796 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=15
+2025-05-28 09:26:01,625 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=15
+2025-05-28 09:26:02,627 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=16
+2025-05-28 09:26:09,866 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=16
+2025-05-28 09:26:10,886 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=17
+2025-05-28 09:26:17,155 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=17
+2025-05-28 09:26:18,156 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=18
+2025-05-28 09:26:24,424 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=18
+2025-05-28 09:26:25,427 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=19
+2025-05-28 09:26:31,225 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=19
+2025-05-28 09:26:32,239 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=20
+2025-05-28 09:26:38,363 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=20
+2025-05-28 09:26:39,378 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=21
+2025-05-28 09:26:46,815 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=21
+2025-05-28 09:26:47,817 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=22
+2025-05-28 09:26:54,445 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=22
+2025-05-28 09:26:55,459 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=23
+2025-05-28 09:27:03,023 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=23
+2025-05-28 09:27:04,025 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=24
+2025-05-28 09:27:11,175 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=24
+2025-05-28 09:27:12,180 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=25
+2025-05-28 09:27:20,037 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=25
+2025-05-28 09:27:21,040 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=26
+2025-05-28 09:27:27,477 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=26
+2025-05-28 09:27:28,481 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=27
+2025-05-28 09:27:34,500 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=27
+2025-05-28 09:27:35,521 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=28
+2025-05-28 09:27:42,075 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=28
+2025-05-28 09:27:43,077 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=29
+2025-05-28 09:27:49,239 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=29
+2025-05-28 09:27:50,242 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=30
+2025-05-28 09:27:56,791 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=30
+2025-05-28 09:27:57,793 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=31
+2025-05-28 09:28:04,132 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=31
+2025-05-28 09:28:05,135 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=32
+2025-05-28 09:28:11,252 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=32
+2025-05-28 09:28:12,254 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=33
+2025-05-28 09:28:18,694 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=33
+2025-05-28 09:28:19,697 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=34
+2025-05-28 09:28:25,660 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=34
+2025-05-28 09:28:26,663 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=35
+2025-05-28 09:28:33,293 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=35
+2025-05-28 09:28:34,296 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=36
+2025-05-28 09:28:40,299 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=36
+2025-05-28 09:28:41,325 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=37
+2025-05-28 09:28:47,563 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=37
+2025-05-28 09:28:48,576 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=38
+2025-05-28 09:28:55,223 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=38
+2025-05-28 09:28:56,225 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=39
+2025-05-28 09:29:03,829 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=39
+2025-05-28 09:29:04,853 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=40
+2025-05-28 09:29:11,043 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=40
+2025-05-28 09:29:12,072 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=41
+2025-05-28 09:29:18,701 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=41
+2025-05-28 09:29:19,733 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=42
+2025-05-28 09:29:26,120 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=42
+2025-05-28 09:29:27,145 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=43
+2025-05-28 09:29:34,199 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=43
+2025-05-28 09:29:35,201 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=44
+2025-05-28 09:29:41,585 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=44
+2025-05-28 09:29:42,606 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=45
+2025-05-28 09:29:49,903 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=45
+2025-05-28 09:29:50,906 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=46
+2025-05-28 09:29:56,766 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=46
+2025-05-28 09:29:57,768 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=47
+2025-05-28 09:30:04,587 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=47
+2025-05-28 09:30:05,590 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=48
+2025-05-28 09:30:11,755 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=48
+2025-05-28 09:30:12,759 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=49
+2025-05-28 09:30:19,761 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=49
+2025-05-28 09:30:20,805 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=50
+2025-05-28 09:30:27,816 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=50
+2025-05-28 09:30:28,817 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=51
+2025-05-28 09:30:34,905 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=51
+2025-05-28 09:30:35,906 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=52
+2025-05-28 09:30:43,407 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=52
+2025-05-28 09:30:44,473 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=53
+2025-05-28 09:30:54,004 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=53
+2025-05-28 09:30:55,006 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=54
+2025-05-28 09:31:01,467 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=54
+2025-05-28 09:31:02,469 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=55
+2025-05-28 09:31:09,321 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=55
+2025-05-28 09:31:10,352 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=56
+2025-05-28 09:31:16,954 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=56
+2025-05-28 09:31:17,957 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=57
+2025-05-28 09:31:27,382 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=57
+2025-05-28 09:31:28,384 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=58
+2025-05-28 09:31:35,880 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=58
+2025-05-28 09:31:36,882 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=59
+2025-05-28 09:31:44,320 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=59
+2025-05-28 09:31:45,387 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=60
+2025-05-28 09:31:52,694 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=60
+2025-05-28 09:31:53,697 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=61
+2025-05-28 09:32:02,214 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=61
+2025-05-28 09:32:03,225 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=62
+2025-05-28 09:32:10,290 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=62
+2025-05-28 09:32:11,292 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=63
+2025-05-28 09:32:17,903 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=63
+2025-05-28 09:32:18,904 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=64
+2025-05-28 09:32:25,711 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=64
+2025-05-28 09:32:26,714 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=65
+2025-05-28 09:32:32,972 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=65
+2025-05-28 09:32:33,993 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=66
+2025-05-28 09:32:41,816 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=66
+2025-05-28 09:32:42,817 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=67
+2025-05-28 09:32:49,470 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=67
+2025-05-28 09:32:50,480 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=68
+2025-05-28 09:32:57,292 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=68
+2025-05-28 09:32:58,293 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=69
+2025-05-28 09:33:04,612 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=69
+2025-05-28 09:33:05,614 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=70
+2025-05-28 09:33:12,639 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=70
+2025-05-28 09:33:13,655 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=71
+2025-05-28 09:33:20,783 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=71
+2025-05-28 09:33:21,785 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=72
+2025-05-28 09:33:28,101 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=72
+2025-05-28 09:33:29,108 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=73
+2025-05-28 09:33:35,049 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=73
+2025-05-28 09:33:36,061 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=74
+2025-05-28 09:33:42,374 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=74
+2025-05-28 09:33:43,379 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=75
+2025-05-28 09:33:49,739 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=75
+2025-05-28 09:33:50,765 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=76
+2025-05-28 09:33:57,569 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=76
+2025-05-28 09:33:58,570 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=77
+2025-05-28 09:34:04,657 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=77
+2025-05-28 09:34:05,685 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=78
+2025-05-28 09:34:12,526 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=78
+2025-05-28 09:34:13,529 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=79
+2025-05-28 09:34:20,548 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=79
+2025-05-28 09:34:21,562 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=80
+2025-05-28 09:34:27,408 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=80
+2025-05-28 09:34:28,438 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=81
+2025-05-28 09:34:34,073 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=81
+2025-05-28 09:34:35,076 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=82
+2025-05-28 09:34:41,560 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=82
+2025-05-28 09:34:42,565 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=83
+2025-05-28 09:34:49,756 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=83
+2025-05-28 09:34:50,773 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=84
+2025-05-28 09:34:59,078 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=84
+2025-05-28 09:35:00,085 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=85
+2025-05-28 09:35:06,353 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=85
+2025-05-28 09:35:07,379 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=86
+2025-05-28 09:35:13,993 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=86
+2025-05-28 09:35:15,006 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=87
+2025-05-28 09:35:21,133 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=87
+2025-05-28 09:35:22,149 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=88
+2025-05-28 09:35:28,915 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=88
+2025-05-28 09:35:29,936 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=89
+2025-05-28 09:35:37,448 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=89
+2025-05-28 09:35:38,450 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=90
+2025-05-28 09:35:44,692 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=90
+2025-05-28 09:35:45,693 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=91
+2025-05-28 09:35:52,473 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=91
+2025-05-28 09:35:53,498 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=92
+2025-05-28 09:36:01,697 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=92
+2025-05-28 09:36:02,700 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=93
+2025-05-28 09:36:09,081 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=93
+2025-05-28 09:36:10,106 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=94
+2025-05-28 09:36:16,674 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=94
+2025-05-28 09:36:17,677 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=95
+2025-05-28 09:36:24,010 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=95
+2025-05-28 09:36:25,012 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=96
+2025-05-28 09:36:31,544 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=96
+2025-05-28 09:36:32,552 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=97
+2025-05-28 09:36:49,955 - WARNING - [Retry 1] Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff714436f65+78965]
+	GetHandleVerifier [0x0x7ff714436fc0+79056]
+	(No symbol) [0x0x7ff7141c9dda]
+	(No symbol) [0x0x7ff7142202ea]
+	(No symbol) [0x0x7ff71422059c]
+	(No symbol) [0x0x7ff714273f37]
+	(No symbol) [0x0x7ff7142486af]
+	(No symbol) [0x0x7ff714270dbe]
+	(No symbol) [0x0x7ff714248443]
+	(No symbol) [0x0x7ff714211311]
+	(No symbol) [0x0x7ff7142120a3]
+	GetHandleVerifier [0x0x7ff7146ee26d+2926461]
+	GetHandleVerifier [0x0x7ff7146e8993+2903715]
+	GetHandleVerifier [0x0x7ff714706aed+3026941]
+	GetHandleVerifier [0x0x7ff7144516fe+187406]
+	GetHandleVerifier [0x0x7ff7144596ef+220159]
+	GetHandleVerifier [0x0x7ff71443faf4+114692]
+	GetHandleVerifier [0x0x7ff71443fca9+115129]
+	GetHandleVerifier [0x0x7ff7144264d8+10728]
+	BaseThreadInitThunk [0x0x7ffb0983259d+29]
+	RtlUserThreadStart [0x0x7ffb0b56af58+40]
+
+2025-05-28 09:37:00,601 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=97
+2025-05-28 09:37:01,603 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=98
+2025-05-28 09:37:08,683 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=98
+2025-05-28 09:37:09,764 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=99
+2025-05-28 09:37:16,215 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=99
+2025-05-28 09:37:17,224 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=100
+2025-05-28 09:37:23,396 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=100
+2025-05-28 09:37:24,407 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=101
+2025-05-28 09:37:31,512 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=101
+2025-05-28 09:37:32,533 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=102
+2025-05-28 09:37:42,188 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=102
+2025-05-28 09:37:43,190 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=103
+2025-05-28 09:37:49,478 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=103
+2025-05-28 09:37:50,480 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=104
+2025-05-28 09:37:58,745 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=104
+2025-05-28 09:37:59,747 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=105
+2025-05-28 09:38:05,765 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=105
+2025-05-28 09:38:06,768 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=106
+2025-05-28 09:38:13,090 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=106
+2025-05-28 09:38:14,119 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=107
+2025-05-28 09:38:21,414 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=107
+2025-05-28 09:38:22,425 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=108
+2025-05-28 09:38:28,247 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=108
+2025-05-28 09:38:29,250 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=109
+2025-05-28 09:38:36,633 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=109
+2025-05-28 09:38:37,652 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=110
+2025-05-28 09:38:43,801 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=110
+2025-05-28 09:38:44,802 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=111
+2025-05-28 09:38:50,668 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=111
+2025-05-28 09:38:51,670 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=112
+2025-05-28 09:38:59,026 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=112
+2025-05-28 09:39:00,038 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=113
+2025-05-28 09:39:07,099 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=113
+2025-05-28 09:39:08,103 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=114
+2025-05-28 09:39:14,713 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=114
+2025-05-28 09:39:15,714 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=115
+2025-05-28 09:39:21,838 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=115
+2025-05-28 09:39:22,859 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=116
+2025-05-28 09:39:28,820 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=116
+2025-05-28 09:39:29,829 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=117
+2025-05-28 09:39:36,375 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=117
+2025-05-28 09:39:37,392 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=118
+2025-05-28 09:39:44,137 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=118
+2025-05-28 09:39:45,152 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=119
+2025-05-28 09:39:51,450 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=119
+2025-05-28 09:39:52,457 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=120
+2025-05-28 09:40:00,346 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=120
+2025-05-28 09:40:01,372 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=121
+2025-05-28 09:40:07,532 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=121
+2025-05-28 09:40:09,070 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=122
+2025-05-28 09:40:17,647 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=122
+2025-05-28 09:40:18,649 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=123
+2025-05-28 09:40:27,826 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=123
+2025-05-28 09:40:28,929 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=124
+2025-05-28 09:40:38,163 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=124
+2025-05-28 09:40:39,165 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=125
+2025-05-28 09:40:46,102 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=125
+2025-05-28 09:40:47,111 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=126
+2025-05-28 09:40:54,858 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=126
+2025-05-28 09:40:55,861 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=127
+2025-05-28 09:41:03,799 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=127
+2025-05-28 09:41:04,801 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=128
+2025-05-28 09:41:11,912 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=128
+2025-05-28 09:41:12,913 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=129
+2025-05-28 09:41:20,533 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=129
+2025-05-28 09:41:21,633 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=130
+2025-05-28 09:41:28,751 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=130
+2025-05-28 09:41:29,752 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=131
+2025-05-28 09:41:36,318 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=131
+2025-05-28 09:41:37,370 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=132
+2025-05-28 09:41:44,272 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=132
+2025-05-28 09:41:45,277 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=133
+2025-05-28 09:41:52,088 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=133
+2025-05-28 09:41:53,099 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=134
+2025-05-28 09:42:00,029 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=134
+2025-05-28 09:42:01,043 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=135
+2025-05-28 09:42:07,187 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=135
+2025-05-28 09:42:08,189 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=136
+2025-05-28 09:42:15,129 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=136
+2025-05-28 09:42:16,130 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=137
+2025-05-28 09:42:22,632 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=137
+2025-05-28 09:42:23,634 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=138
+2025-05-28 09:42:30,007 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=138
+2025-05-28 09:42:31,009 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=139
+2025-05-28 09:42:37,355 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=139
+2025-05-28 09:42:38,361 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=140
+2025-05-28 09:42:45,067 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=140
+2025-05-28 09:42:46,208 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=141
+2025-05-28 09:42:53,280 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=141
+2025-05-28 09:42:54,282 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=142
+2025-05-28 09:43:02,562 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=142
+2025-05-28 09:43:03,577 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=143
+2025-05-28 09:43:10,663 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=143
+2025-05-28 09:43:11,665 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=144
+2025-05-28 09:43:18,560 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=144
+2025-05-28 09:43:19,616 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=145
+2025-05-28 09:43:26,310 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=145
+2025-05-28 09:43:27,329 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=146
+2025-05-28 09:43:33,388 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=146
+2025-05-28 09:43:34,389 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=147
+2025-05-28 09:43:40,912 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=147
+2025-05-28 09:43:41,914 - INFO - \u2705 Scraping complete. Total jobs scraped: 720
+2025-05-28 09:47:24,406 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=1
+2025-05-28 09:47:31,334 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=1
+2025-05-28 09:47:32,681 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=2
+2025-05-28 09:47:39,514 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=2
+2025-05-28 09:47:40,542 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=3
+2025-05-28 09:47:46,927 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=3
+2025-05-28 09:47:47,929 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=4
+2025-05-28 09:47:54,347 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=4
+2025-05-28 09:47:55,349 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=5
+2025-05-28 09:48:02,358 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=5
+2025-05-28 09:48:03,361 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=6
+2025-05-28 09:48:09,841 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=6
+2025-05-28 09:48:10,843 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=7
+2025-05-28 09:48:17,818 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=7
+2025-05-28 09:48:18,882 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=8
+2025-05-28 09:48:26,329 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=8
+2025-05-28 09:48:27,331 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=9
+2025-05-28 09:48:33,573 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=9
+2025-05-28 09:48:34,575 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=10
+2025-05-28 09:48:41,366 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=10
+2025-05-28 09:48:42,368 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=11
+2025-05-28 09:48:48,465 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=11
+2025-05-28 09:48:49,486 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=12
+2025-05-28 09:48:56,021 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=12
+2025-05-28 09:48:57,032 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=13
+2025-05-28 09:49:06,040 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=13
+2025-05-28 09:49:07,048 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=14
+2025-05-28 09:49:13,169 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=14
+2025-05-28 09:49:14,171 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=15
+2025-05-28 09:49:21,103 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=15
+2025-05-28 09:49:22,111 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=16
+2025-05-28 09:49:27,915 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=16
+2025-05-28 09:49:28,918 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=17
+2025-05-28 09:49:35,579 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=17
+2025-05-28 09:49:36,581 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=18
+2025-05-28 09:49:42,637 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=18
+2025-05-28 09:49:43,663 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=19
+2025-05-28 09:49:50,698 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=19
+2025-05-28 09:49:51,723 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=20
+2025-05-28 09:49:58,469 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=20
+2025-05-28 09:49:59,488 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=21
+2025-05-28 09:50:05,521 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=21
+2025-05-28 09:50:06,547 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=22
+2025-05-28 09:50:12,566 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=22
+2025-05-28 09:50:13,568 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=23
+2025-05-28 09:50:19,947 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=23
+2025-05-28 09:50:20,957 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=24
+2025-05-28 09:50:26,839 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=24
+2025-05-28 09:50:27,843 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=25
+2025-05-28 09:50:33,986 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=25
+2025-05-28 09:50:34,997 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=26
+2025-05-28 09:50:42,989 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=26
+2025-05-28 09:50:43,990 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=27
+2025-05-28 09:50:51,076 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=27
+2025-05-28 09:50:52,078 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=28
+2025-05-28 09:50:58,246 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=28
+2025-05-28 09:50:59,249 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=29
+2025-05-28 09:51:05,283 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=29
+2025-05-28 09:51:06,294 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=30
+2025-05-28 09:51:13,591 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=30
+2025-05-28 09:51:14,622 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=31
+2025-05-28 09:51:20,741 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=31
+2025-05-28 09:51:21,766 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=32
+2025-05-28 09:51:27,975 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=32
+2025-05-28 09:51:28,988 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=33
+2025-05-28 09:51:36,202 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=33
+2025-05-28 09:51:37,211 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=34
+2025-05-28 09:51:43,812 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=34
+2025-05-28 09:51:44,814 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=35
+2025-05-28 09:51:50,895 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=35
+2025-05-28 09:51:51,896 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=36
+2025-05-28 09:51:58,421 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=36
+2025-05-28 09:51:59,433 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=37
+2025-05-28 09:52:05,618 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=37
+2025-05-28 09:52:06,640 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=38
+2025-05-28 09:52:12,804 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=38
+2025-05-28 09:52:13,805 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=39
+2025-05-28 09:52:20,432 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=39
+2025-05-28 09:52:21,446 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=40
+2025-05-28 09:52:27,688 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=40
+2025-05-28 09:52:28,689 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=41
+2025-05-28 09:52:35,284 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=41
+2025-05-28 09:52:36,298 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=42
+2025-05-28 09:52:42,972 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=42
+2025-05-28 09:52:43,980 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=43
+2025-05-28 09:52:50,523 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=43
+2025-05-28 09:52:51,527 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=44
+2025-05-28 09:52:58,120 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=44
+2025-05-28 09:52:59,131 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=45
+2025-05-28 09:53:06,044 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=45
+2025-05-28 09:53:07,060 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=46
+2025-05-28 09:53:13,719 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=46
+2025-05-28 09:53:14,732 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=47
+2025-05-28 09:53:20,715 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=47
+2025-05-28 09:53:21,779 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=48
+2025-05-28 09:53:28,308 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=48
+2025-05-28 09:53:29,311 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=49
+2025-05-28 09:53:36,040 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=49
+2025-05-28 09:53:37,043 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=50
+2025-05-28 09:53:43,024 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=50
+2025-05-28 09:53:44,052 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=51
+2025-05-28 09:53:50,569 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=51
+2025-05-28 09:53:51,572 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=52
+2025-05-28 09:53:57,579 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=52
+2025-05-28 09:53:58,580 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=53
+2025-05-28 09:54:05,473 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=53
+2025-05-28 09:54:06,488 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=54
+2025-05-28 09:54:12,849 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=54
+2025-05-28 09:54:13,850 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=55
+2025-05-28 09:54:19,899 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=55
+2025-05-28 09:54:20,921 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=56
+2025-05-28 09:54:27,296 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=56
+2025-05-28 09:54:28,298 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=57
+2025-05-28 09:54:34,587 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=57
+2025-05-28 09:54:35,589 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=58
+2025-05-28 09:54:42,915 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=58
+2025-05-28 09:54:43,918 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=59
+2025-05-28 09:54:50,270 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=59
+2025-05-28 09:54:51,278 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=60
+2025-05-28 09:54:57,952 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=60
+2025-05-28 09:54:58,965 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=61
+2025-05-28 09:55:05,765 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=61
+2025-05-28 09:55:06,767 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=62
+2025-05-28 09:55:13,110 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=62
+2025-05-28 09:55:14,125 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=63
+2025-05-28 09:55:21,375 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=63
+2025-05-28 09:55:22,385 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=64
+2025-05-28 09:55:29,162 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=64
+2025-05-28 09:55:30,193 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=65
+2025-05-28 09:55:37,088 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=65
+2025-05-28 09:55:38,089 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=66
+2025-05-28 09:55:44,868 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=66
+2025-05-28 09:55:45,870 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=67
+2025-05-28 09:55:52,771 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=67
+2025-05-28 09:55:53,795 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=68
+2025-05-28 09:55:59,967 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=68
+2025-05-28 09:56:00,968 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=69
+2025-05-28 09:56:07,512 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=69
+2025-05-28 09:56:08,514 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=70
+2025-05-28 09:56:14,395 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=70
+2025-05-28 09:56:15,397 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=71
+2025-05-28 09:56:22,168 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=71
+2025-05-28 09:56:23,169 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=72
+2025-05-28 09:56:29,426 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=72
+2025-05-28 09:56:30,441 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=73
+2025-05-28 09:56:36,645 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=73
+2025-05-28 09:56:37,662 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=74
+2025-05-28 09:56:43,560 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=74
+2025-05-28 09:56:44,567 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=75
+2025-05-28 09:56:51,301 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=75
+2025-05-28 09:56:52,302 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=76
+2025-05-28 09:56:59,067 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=76
+2025-05-28 09:57:00,069 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=77
+2025-05-28 09:57:06,030 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=77
+2025-05-28 09:57:07,033 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=78
+2025-05-28 09:57:13,295 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=78
+2025-05-28 09:57:14,298 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=79
+2025-05-28 09:57:20,921 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=79
+2025-05-28 09:57:21,929 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=80
+2025-05-28 09:57:28,031 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=80
+2025-05-28 09:57:29,039 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=81
+2025-05-28 09:57:36,989 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=81
+2025-05-28 09:57:38,001 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=82
+2025-05-28 09:57:44,866 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=82
+2025-05-28 09:57:45,868 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=83
+2025-05-28 09:57:52,198 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=83
+2025-05-28 09:57:53,199 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=84
+2025-05-28 09:57:59,583 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=84
+2025-05-28 09:58:00,641 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=85
+2025-05-28 09:58:06,777 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=85
+2025-05-28 09:58:07,780 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=86
+2025-05-28 09:58:14,902 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=86
+2025-05-28 09:58:15,904 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=87
+2025-05-28 09:58:23,966 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=87
+2025-05-28 09:58:24,975 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=88
+2025-05-28 09:58:31,365 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=88
+2025-05-28 09:58:32,368 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=89
+2025-05-28 09:58:39,196 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=89
+2025-05-28 09:58:40,235 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=90
+2025-05-28 09:58:46,882 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=90
+2025-05-28 09:58:47,884 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=91
+2025-05-28 09:58:54,980 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=91
+2025-05-28 09:58:55,981 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=92
+2025-05-28 09:59:02,270 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=92
+2025-05-28 09:59:03,272 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=93
+2025-05-28 09:59:09,976 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=93
+2025-05-28 09:59:10,989 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=94
+2025-05-28 09:59:17,631 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=94
+2025-05-28 09:59:18,658 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=95
+2025-05-28 09:59:25,069 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=95
+2025-05-28 09:59:26,092 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=96
+2025-05-28 09:59:32,000 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=96
+2025-05-28 09:59:33,019 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=97
+2025-05-28 09:59:39,569 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=97
+2025-05-28 09:59:40,585 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=98
+2025-05-28 09:59:47,900 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=98
+2025-05-28 09:59:48,903 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=99
+2025-05-28 09:59:55,577 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=99
+2025-05-28 09:59:56,589 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=100
+2025-05-28 10:00:03,802 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=100
+2025-05-28 10:00:04,816 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=101
+2025-05-28 10:00:11,983 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=101
+2025-05-28 10:00:13,007 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=102
+2025-05-28 10:00:21,074 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=102
+2025-05-28 10:00:22,075 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=103
+2025-05-28 10:00:28,430 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=103
+2025-05-28 10:00:29,432 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=104
+2025-05-28 10:00:36,642 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=104
+2025-05-28 10:00:37,655 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=105
+2025-05-28 10:00:44,280 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=105
+2025-05-28 10:00:45,301 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=106
+2025-05-28 10:00:51,830 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=106
+2025-05-28 10:00:52,848 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=107
+2025-05-28 10:01:00,113 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=107
+2025-05-28 10:01:01,114 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=108
+2025-05-28 10:01:07,353 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=108
+2025-05-28 10:01:08,355 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=109
+2025-05-28 10:01:14,467 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=109
+2025-05-28 10:01:15,468 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=110
+2025-05-28 10:01:21,894 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=110
+2025-05-28 10:01:22,904 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=111
+2025-05-28 10:01:29,234 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=111
+2025-05-28 10:01:30,235 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=112
+2025-05-28 10:01:36,458 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=112
+2025-05-28 10:01:37,459 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=113
+2025-05-28 10:01:43,831 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=113
+2025-05-28 10:01:44,845 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=114
+2025-05-28 10:01:51,413 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=114
+2025-05-28 10:01:52,450 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=115
+2025-05-28 10:02:06,413 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=115
+2025-05-28 10:02:07,414 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=116
+2025-05-28 10:02:16,106 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=116
+2025-05-28 10:02:17,126 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=117
+2025-05-28 10:02:24,818 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=117
+2025-05-28 10:02:25,882 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=118
+2025-05-28 10:02:32,076 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=118
+2025-05-28 10:02:33,079 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=119
+2025-05-28 10:02:39,289 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=119
+2025-05-28 10:02:40,292 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=120
+2025-05-28 10:02:46,715 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=120
+2025-05-28 10:02:47,717 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=121
+2025-05-28 10:02:53,824 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=121
+2025-05-28 10:02:54,826 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=122
+2025-05-28 10:03:01,163 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=122
+2025-05-28 10:03:02,196 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=123
+2025-05-28 10:03:08,357 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=123
+2025-05-28 10:03:09,384 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=124
+2025-05-28 10:03:15,792 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=124
+2025-05-28 10:03:16,821 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=125
+2025-05-28 10:03:23,166 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=125
+2025-05-28 10:03:24,193 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=126
+2025-05-28 10:03:30,940 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=126
+2025-05-28 10:03:31,942 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=127
+2025-05-28 10:03:38,408 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=127
+2025-05-28 10:03:39,410 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=128
+2025-05-28 10:03:46,344 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=128
+2025-05-28 10:03:47,416 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=129
+2025-05-28 10:03:53,945 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=129
+2025-05-28 10:03:54,974 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=130
+2025-05-28 10:04:01,684 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=130
+2025-05-28 10:04:02,685 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=131
+2025-05-28 10:04:10,185 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=131
+2025-05-28 10:04:11,193 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=132
+2025-05-28 10:04:17,843 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=132
+2025-05-28 10:04:18,846 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=133
+2025-05-28 10:04:25,082 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=133
+2025-05-28 10:04:26,094 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=134
+2025-05-28 10:04:32,105 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=134
+2025-05-28 10:04:33,122 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=135
+2025-05-28 10:04:40,032 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=135
+2025-05-28 10:04:41,033 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=136
+2025-05-28 10:04:47,983 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=136
+2025-05-28 10:04:48,985 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=137
+2025-05-28 10:04:55,717 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=137
+2025-05-28 10:04:56,731 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=138
+2025-05-28 10:05:03,002 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=138
+2025-05-28 10:05:04,004 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=139
+2025-05-28 10:05:10,954 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=139
+2025-05-28 10:05:11,964 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=140
+2025-05-28 10:05:18,695 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=140
+2025-05-28 10:05:19,697 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=141
+2025-05-28 10:05:25,647 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=141
+2025-05-28 10:05:26,655 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=142
+2025-05-28 10:05:33,184 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=142
+2025-05-28 10:05:34,212 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=143
+2025-05-28 10:05:40,581 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=143
+2025-05-28 10:05:41,582 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=144
+2025-05-28 10:05:48,983 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=144
+2025-05-28 10:05:49,998 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=145
+2025-05-28 10:05:56,605 - INFO - 10 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=145
+2025-05-28 10:05:57,619 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=146
+2025-05-28 10:06:04,877 - INFO - 3 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=146
+2025-05-28 10:06:05,883 - INFO - Processing: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=147
+2025-05-28 10:06:12,625 - INFO - 0 jobs found on: https://www.nigelfrank.com/microsoft-jobs?newJobs=&keyword=&location=&jobType=both&page=147
+2025-05-28 10:06:13,630 - INFO - \u2705 Scraping complete. Total jobs scraped: 743
