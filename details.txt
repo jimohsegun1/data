@@ -1,0 +1,17 @@
+title
+job_id
+job_url
+location
+level
+
+salary
+role_type
+description
+
+title, location, job_id, level, job_url
+
+also note that some locations are more than one location, 
+- so, in the tree, location more than one are denoted with numbers like 2 or as it may be, so, in that situation, it should be gotten from the job page, make sure you handle that when I provide the tree
+
+get these first from the job list page and also include pagination getting the ones in the other pages:
+title, location, job_id, level, job_url

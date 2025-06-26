@@ -12,11 +12,14 @@ os.makedirs("log", exist_ok=True)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 file_handler = logging.FileHandler("log/scrap.log", mode="a", encoding="utf-8")
-file_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
+file_handler.setFormatter(
+    logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+)
 console_handler = logging.StreamHandler()
 console_handler.setFormatter(logging.Formatter("%(levelname)s - %(message)s"))
 logger.addHandler(file_handler)
 logger.addHandler(console_handler)
+
 
 def setup_driver(headless=True):
     options = uc.ChromeOptions()
@@ -35,6 +38,7 @@ def setup_driver(headless=True):
         driver.maximize_window()
     return driver
 
+
 def load_page(driver, url, wait_timeout=20):
     try:
         driver.get(url)
@@ -51,6 +55,7 @@ def load_page(driver, url, wait_timeout=20):
         logger.error(f"Error loading page: {e}")
         return False
 
+
 def go_to_next_page(driver):
     try:
         nav = driver.find_element(By.CLASS_NAME, "job-manager-pagination")
@@ -64,6 +69,7 @@ def go_to_next_page(driver):
     except Exception as e:
         logger.error(f"Error clicking forward arrow: {e}")
         return False
+
 
 def paginate_through_all_pages(driver, start_url, wait_timeout=20, delay=3):
     if not load_page(driver, start_url, wait_timeout):
@@ -88,6 +94,7 @@ def paginate_through_all_pages(driver, start_url, wait_timeout=20, delay=3):
         current_page += 1
 
     logger.info("Pagination complete")
+
 
 if __name__ == "__main__":
     url = "https://conspicuous.com/jobs/"
