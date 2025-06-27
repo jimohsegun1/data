@@ -116,7 +116,6 @@ def scrape_rsm_jobs():
 
 
             page = 1
-            prev_card_count = -1
 
             while True:
                 log_and_print(f"📄 Processing page {page} for keyword '{keyword}'")
@@ -129,6 +128,106 @@ def scrape_rsm_jobs():
                     log_and_print("⚠️ No job cards found.")
                     break
 
+                # Get details for each job card on the job list page
+                for card in job_cards:
+                    try:
+                        title_el = card.find_element(By.CSS_SELECTOR, "a[data-automation-id='jobTitle']")
+                        title = title_el.text.strip()
+                        url_el = card.find_element(By.CSS_SELECTOR, "h3 > a")
+                        job_url = url_el.get_attribute("href").strip()
+
+                        # --- Locationn ---
+                        try:
+                            location_el = card.find_element(By.CSS_SELECTOR, "[data-automation-id='locations'] dd")
+                            locationn = location_el.text.strip()
+                        except NoSuchElementException:
+                            location = "Unknown"
+
+                        # --- Job ID & Level ---
+                        try:
+                            subtitle_items = card.find_elements(By.CSS_SELECTOR, "ul[data-automation-id='subtitle'] > li")
+                            job_id = subtitle_items[0].text.strip() if len(subtitle_items) > 0 else "Unknown"
+                            level = subtitle_items[1].text.strip() if len(subtitle_items) > 1 else "Unknown"
+                        except Exception:
+                            job_id, level = "Unknown", "Unknown"
+                            
+
+                        job_data = {
+                            "title": title,
+                            "locationn": locationn,
+                            "job_id": job_id,
+                            "level": level,
+                            "job_url": job_url,
+                            "keyword": keyword,
+                        }
+                        all_data.append(job_data)
+                        log_and_print(f"✅ Scraped job: {title} | {locationn} | {job_id} | {level} | {job_url} | {keyword}")
+
+
+                        # Click job to go to detail page
+                        log_and_print(f"🖱️ Clicking job link: {title}")
+                        driver.execute_script("arguments[0].scrollIntoView(true);", url_el)
+                        url_el.click()
+
+                        # Wait for job detail content to load (adjust selector as needed)
+                        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div[aria-label='Job Posting Description'][tabindex='0']")))
+
+                        # Confirm we are on the right job page by logging header or job ID
+                        try:
+                            job_header_el = driver.find_element(By.CSS_SELECTOR, "h2[data-automation-id='jobPostingHeader']")
+                            job_header = job_header_el.text.strip()
+                            log_and_print(f"📄 Opened job detail page for: {job_header}")
+
+                        except Exception as e:
+                            log_and_print(f"⚠️ Could not confirm job detail page: {e}")
+
+                        # Location extraction
+                        try:
+                            # Narrow the scope to ONLY inside the main job posting container
+                            job_detail_section = driver.find_element(By.XPATH, '//*[@id="mainContent"]/div/div[2]/div/div/section/div/div[2]/div/div/div/div[1]/div/div[1]/div')
+                            location_elements = job_detail_section.find_elements(By.CSS_SELECTOR, "div[data-automation-id='locations'] dd")
+
+                            # Strip and clean only non-empty values
+                            location_list = [el.text.strip() for el in location_elements if el.text.strip()]
+                            
+                            if location_list:
+                                location = ", ".join(location_list)
+                                log_and_print(f"📍 Location(s) found: {location}")
+                            else:
+                                location = "Unknown"
+                                log_and_print("⚠️ No location text found.")
+                        except Exception as e:
+                            location = "Unknown"
+                            log_and_print(f"⚠️ Error getting locations: {e}")
+
+
+                        # Description extraction
+                        try:
+                            description_el = driver.find_element(By.XPATH, '//*[@id="mainContent"]/div/div[2]/div/div/section/div/div[2]/div/div/div/div[2]/div/div/p[1]')
+                            description = description_el.text.strip()
+                            log_and_print(f"📝 Description found: {description[:100]}...")  # Only show first 100 chars
+                        except Exception as e:
+                            description = "Not found"
+                            log_and_print(f"⚠️ Could not extract job description: {e}")
+
+
+                        job_data["location"] = location
+                        job_data["description"] = description
+
+                        all_data.append(job_data)
+                        # log_and_print(f"✅ Scraped full job data: {job_data}")
+
+
+
+
+                        # Go back to job list
+                        driver.back()
+                        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "section[data-automation-id='jobResults'] ul[role='list'] > li.css-1q2dra3")))
+                        time.sleep(2) 
+
+                    except Exception as e:
+                        log_and_print(f"⚠️ Error extracting job card: {e}")
+                        continue
 
                 first_card = job_cards[0]
 
@@ -149,13 +248,13 @@ def scrape_rsm_jobs():
 
         # ==========================
         # # Save to CSV
-        # if all_data:
-        #     os.makedirs("data", exist_ok=True)
-        #     filename = f"data/rsm_jobs_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
-        #     pd.DataFrame(all_data).to_csv(filename, index=False)
-        #     log_and_print(f"📁 Data saved to {filename}")
-        # else:
-        #     log_and_print("⚠️ No data scraped.")
+        if all_data:
+            os.makedirs("data", exist_ok=True)
+            filename = f"data/rsm_jobs_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+            pd.DataFrame(all_data).to_csv(filename, index=False)
+            log_and_print(f"📁 Data saved to {filename}")
+        else:
+            log_and_print("⚠️ No data scraped.")
 
 
     except Exception as e:
