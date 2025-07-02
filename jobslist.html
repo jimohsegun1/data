@@ -1,217 +1,286 @@
-<section data-automation-id="jobResults" aria-label="Search Results" class="css-27w6p6">
-    <p data-automation-id="jobFoundText" class="css-12psxof">22 JOBS FOUND</p>
-    <div data-automation-id="jobJumpToDetailsContainer" class="css-14l0ax5"><button type="button" data-automation-id="jobJumpToDetailsLink" class="css-hxasza"><span class="css-pplshs">Jump to selected job
-        details</span></button></div>
-    <ul aria-label="Page 1 of 2" role="list">
+<ul
+  data-bind="class: `${componentClass()}__list`"
+  class="jobs-list__list"
+  xpath="1"
+>
+  <li data-qa="searchResultItem">
+    <div
+      class="search-results job-tile job-list-item"
+      data-bind="
+    css: { 'job-list-item--active': job.isActive, 'job-list-item--focus': hasFocus, 'job-list-item--with-image': mainContentConfig().isImageVisible },
+    style: mediaStyles
+"
+    >
+      <a
+        class="job-list-item__link"
+        data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    "
+        href="https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Argano-Careers/job/1094/?keyword=Power+Platform&amp;mode=location"
+        aria-labelledby="1094"
+      ></a>
+      <div
+        class="job-list-item__link"
+        data-bind="click: () =&gt; openJobPreview(job.id)"
+      >
+        <
 
-        <li class="css-1q2dra3">
-            <div class="css-qiqmbt">
-                <div class="css-b3pn3b">
-                    <div class="css-b3pn3b">
-                        <h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="bb4db507-e39e-4e7d-ab74-60bd1d0df5a2" data-uxi-widget-type="heading" data-uxi-item-rank="0" class="css-19uc56f" href="/en-US/RSMCareers/job/Hyderabad/Microsoft-CE-Technical-Manager_JR112009?q=Microsoft%20Dynamics">Microsoft
-                CE Technical Manager</a></h3>
-                    </div>
+        <div class="job-list-item__content">
+          <search-result-item-header
+            data-bind="attr: { id: ariaLabelledByIdJob }"
+            params="
+                    job: job,
+                    headerInformationConfig: headerInformationConfig,
+                    customizationParams: customizationParams,
+                    jobInfoDisplayed: jobInfoDisplayed,
+                    jobInfoDisplay: jobInfoDisplay,
+                    jobInfoSeparator: jobInfoSeparator,
+                    jobInfoTagsConfiguration: jobInfoTagsConfiguration,
+                    jobTags: jobTags,
+                    jobTagsConfig: jobTagsConfig,
+                    shouldShowDistance: shouldShowDistance,
+                    viewType: 'listView',
+                    dffs: dffs
+                "
+            id="1094"
+            ><div
+              class="job-tile__header job-tile__header--job-info-tags"
+              data-bind="css: { 'job-tile__header--job-info-tags': jobInfoTagsConfiguration() === 'inHeader' }"
+            >
+              <div class="job-tile__header-container">
+                <span class="job-tile__title" data-bind="text: job.title"
+                  >Senior Client Executive, Dynamics365 - Manufacturing</span
+                >
+              </div>
+              <div
+                class="job-tile__subheader"
+                data-bind="css: { 'job-tile__subheader--apply-button-visible': enableApplyButton() &amp;&amp; isApplyButtonVisible }"
+              >
+                <div
+                  class="job-list-item__job-info-container"
+                  data-bind="react: { component: 'search-result-item-job-info', props: { job, jobInfoDisplayed, jobInfoDisplay, jobInfoSeparator, distanceInfo, shouldShowDistance, areJobTagsVisible, viewType, dffs } }"
+                >
+                  <ul
+                    class="job-list-item__job-info-items job-list-item__job-info-items--dot job-list-item__job-info-items--label job-list-item__job-info-items--tags-visible"
+                  >
+                    <li class="job-list-item__job-info-item">
+                      <div
+                        class="job-list-item__job-info-label job-list-item__job-info-label--locations"
+                      >
+                        Locations
+                      </div>
+                      <div class="job-list-item__job-info-value-container">
+                        <div class="job-list-item__job-info-value">
+                          <posting-locations
+                            params="primaryLocation: primaryLocation, secondaryLocations: secondaryLocations, workplaceType: { name: workplaceType, code: workplaceTypeCode, }, mode:'tooltip'"
+                          >
+                            <span data-bind="html: primaryLocation"
+                              >United States</span
+                            >
+
+                            <span data-bind="text: workplaceTypeName"
+                              >(Remote)</span
+                            >
+                          </posting-locations>
+                        </div>
+                        <div class="icon-separator-dot"></div>
+                      </div>
+                    </li>
+                    <li class="job-list-item__job-info-item">
+                      <div
+                        class="job-list-item__job-info-label job-list-item__job-info-label--posting-date"
+                      >
+                        Posting Dates
+                      </div>
+                      <div class="job-list-item__job-info-value-container">
+                        <div class="job-list-item__job-info-value">
+                          06/26/2025
+                        </div>
+                        <div class="icon-separator icon-separator-dot"></div>
+                      </div>
+                    </li>
+                  </ul>
                 </div>
-            </div>
-            <div class="css-248241">
-                <div class="css-1y87fhn">
-                    <div data-automation-id="locations" class="css-k008qs">
-                        <div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg"
-                  width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation"
-                  viewBox="0 0 24 24">
-                  <g fill-rule="evenodd" class="wd-icon-container">
-                    <path
-                      d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
-                      class="wd-icon-background"></path>
-                    <path fill-rule="nonzero"
-                      d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z"
-                      class="wd-icon-fill"></path>
-                  </g>
-                </svg></span></div>
-                        <dl>
-                            <dt class="css-y8qsrx">locations</dt>
-                            <dd class="css-129m7dg">2 Locations</dd>
-                        </dl>
-                    </div>
+                <!-- /ko -->
+
+                <div class="job-tile__subheader-additional-container">
+                  <job-tags params="jobTags: jobTags, layoutStyle: layoutStyle"
+                    ><div class="job-tags"></div>
+                  </job-tags>
                 </div>
+              </div>
             </div>
-            <div class="css-zoser8">
-                <div class="css-1y87fhn">
-                    <div data-automation-id="postedOn" class="css-k008qs">
-                        <div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg"
-                  width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation"
-                  viewBox="0 0 24 24">
-                  <g fill-rule="evenodd" class="wd-icon-container">
-                    <circle cx="12" cy="12" r="9" class="wd-icon-background"></circle>
-                    <path
-                      d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z"
-                      class="wd-icon-fill"></path>
-                    <path
-                      d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z"
-                      class="wd-icon-accent"></path>
-                  </g>
-                </svg></span></div>
-                        <dl>
-                            <dt class="css-y8qsrx">posted on</dt>
-                            <dd class="css-129m7dg">Posted Today</dd>
-                        </dl>
-                    </div>
-                </div>
+          </search-result-item-header>
+
+          <p
+            class="job-list-item__description"
+            data-bind="text: job.shortDescription"
+          >
+            Join Argano as a Senior Client Executive and help drive digital
+            transformation for enterprise manufacturing clients using Microsoft
+            Dynamics 365, Power Platform, CoPilot, and Microsoft Data solutions.
+            In this high-impact role, you’ll lead strategic sales efforts, build
+            trusted client relationships, and deliver innovative, AI-powered
+            solutions that solve real-world challenges. If you’re passionate
+            about tech, strategy, and manufacturing, this is your opportunity to
+            lead from the front.
+          </p>
+        </div>
+        <div class="job-list-item__actions-container">
+          <div class="job-list-item__actions">
+            <div>
+              <button
+                class="favourite-star job-tile__favorited focused-tooltip"
+                data-bind="
+                            click: toggleFavourite,
+                            clickBubble: false,
+                            css: { 'favourite-star--active': isFavourite },
+                            i18nAttr: { title: !isFavourite() ? 'favourite.a11y.pin-job' : 'favourite.a11y.unpin-job',
+                            'aria-label': !isFavourite() ? 'favourite.a11y.pin-job' : 'favourite.a11y.unpin-job' }
+                        "
+                title="Add Job to My Job Selections"
+                aria-label="Add Job to My Job Selections"
+              ></button>
             </div>
-            <ul data-automation-id="subtitle" class="css-14a0imc">
-                <li class="css-h2nt8k">JR112009</li>
-                <li class="css-h2nt8k">Experienced</li>
-            </ul>
-        </li>
+          </div>
 
-
-
-        <li class="css-1q2dra3">
-            <div class="css-qiqmbt">
-                <div class="css-b3pn3b">
-                    <div class="css-b3pn3b">
-                        <h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="bb4db507-e39e-4e7d-ab74-60bd1d0df5a2" data-uxi-widget-type="heading" data-uxi-item-rank="1" class="css-19uc56f" href="/en-US/RSMCareers/job/San-Salvador/Senior-Associate---SALT-Transaction-Tax---Automation_JR113788?q=Microsoft%20Dynamics">Senior
-                Associate - SALT Transaction Tax &amp; Automation</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="css-248241">
-                <div class="css-1y87fhn">
-                    <div data-automation-id="locations" class="css-k008qs">
-                        <div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg"
-                  width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation"
-                  viewBox="0 0 24 24">
-                  <g fill-rule="evenodd" class="wd-icon-container">
-                    <path
-                      d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
-                      class="wd-icon-background"></path>
-                    <path fill-rule="nonzero"
-                      d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z"
-                      class="wd-icon-fill"></path>
-                  </g>
-                </svg></span></div>
-                        <dl>
-                            <dt class="css-y8qsrx">locations</dt>
-                            <dd class="css-129m7dg">San Salvador</dd>
-                        </dl>
-                    </div>
-                </div>
-            </div>
-            <div class="css-zoser8">
-                <div class="css-1y87fhn">
-                    <div data-automation-id="postedOn" class="css-k008qs">
-                        <div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg"
-                  width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation"
-                  viewBox="0 0 24 24">
-                  <g fill-rule="evenodd" class="wd-icon-container">
-                    <circle cx="12" cy="12" r="9" class="wd-icon-background"></circle>
-                    <path
-                      d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z"
-                      class="wd-icon-fill"></path>
-                    <path
-                      d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z"
-                      class="wd-icon-accent"></path>
-                  </g>
-                </svg></span></div>
-                        <dl>
-                            <dt class="css-y8qsrx">posted on</dt>
-                            <dd class="css-129m7dg">Posted Yesterday</dd>
-                        </dl>
-                    </div>
-                </div>
-            </div>
-            <ul data-automation-id="subtitle" class="css-14a0imc">
-                <li class="css-h2nt8k">JR113788</li>
-                <li class="css-h2nt8k">Experienced</li>
-            </ul>
-        </li>
-
-
-        <li class="css-1q2dra3">
-            <div class="css-qiqmbt">
-                <div class="css-b3pn3b">
-                    <div class="css-b3pn3b">
-                        <h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="bb4db507-e39e-4e7d-ab74-60bd1d0df5a2" data-uxi-widget-type="heading" data-uxi-item-rank="2" class="css-19uc56f" href="/en-US/RSMCareers/job/San-Salvador/Growth-Support-Specialist_JR110007?q=Microsoft%20Dynamics">Growth
-                Support Proposal Specialist Senior</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="css-248241">
-                <div class="css-1y87fhn">
-                    <div data-automation-id="locations" class="css-k008qs">
-                        <div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg"
-                  width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation"
-                  viewBox="0 0 24 24">
-                  <g fill-rule="evenodd" class="wd-icon-container">
-                    <path
-                      d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
-                      class="wd-icon-background"></path>
-                    <path fill-rule="nonzero"
-                      d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z"
-                      class="wd-icon-fill"></path>
-                  </g>
-                </svg></span></div>
-                        <dl>
-                            <dt class="css-y8qsrx">locations</dt>
-                            <dd class="css-129m7dg">San Salvador</dd>
-                        </dl>
-                    </div>
-                </div>
-            </div>
-            <div class="css-zoser8">
-                <div class="css-1y87fhn">
-                    <div data-automation-id="postedOn" class="css-k008qs">
-                        <div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg"
-                  width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation"
-                  viewBox="0 0 24 24">
-                  <g fill-rule="evenodd" class="wd-icon-container">
-                    <circle cx="12" cy="12" r="9" class="wd-icon-background"></circle>
-                    <path
-                      d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z"
-                      class="wd-icon-fill"></path>
-                    <path
-                      d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z"
-                      class="wd-icon-accent"></path>
-                  </g>
-                </svg></span></div>
-                        <dl>
-                            <dt class="css-y8qsrx">posted on</dt>
-                            <dd class="css-129m7dg">Posted 2 Days Ago</dd>
-                        </dl>
-                    </div>
-                </div>
-            </div>
-            <ul data-automation-id="subtitle" class="css-14a0imc">
-                <li class="css-h2nt8k">JR110007</li>
-                <li class="css-h2nt8k">Experienced</li>
-            </ul>
-        </li>
-
-
-
-
-
-    </ul>
-
-
-
-    <div class="css-3z7fsk">
-        <nav aria-label="pagination" class="css-qnaoii">
-            <div class="css-19yi5fs">
-                <div class="css-8jbpru"></div>
-                <ol role="list" class="css-1o4ed1z">
-                    <li class="css-1j096s0"><button type="button" aria-current="page" aria-label="page 1" data-uxi-element-id="page 1" data-uxi-query-id="bb4db507-e39e-4e7d-ab74-60bd1d0df5a2" data-uxi-widget-type="paginationPageButton" class="css-79nko6">1</button></li>
-                    <li class="css-1j096s0"><button type="button" aria-label="page 2" data-uxi-element-id="page 2" data-uxi-query-id="bb4db507-e39e-4e7d-ab74-60bd1d0df5a2" data-uxi-widget-type="paginationPageButton" class="css-4edc56">2</button></li>
-                </ol><button type="button" aria-label="next" data-uxi-element-id="next" data-uxi-query-id="bb4db507-e39e-4e7d-ab74-60bd1d0df5a2" data-uxi-widget-type="stepToNextButton" class="css-1fr9p7z"><span class="css-1p727v3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-              class="wd-icon-chevron-right-small wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24">
-              <g fill-rule="evenodd" class="wd-icon-container">
-                <path
-                  d="M13.703 12L9.128 7.39a.44.44 0 0 1 0-.62l.635-.64a.44.44 0 0 1 .622-.002l.002.002 5.482 5.523a.44.44 0 0 1 .127.347.44.44 0 0 1-.127.347l-5.482 5.523a.44.44 0 0 1-.622.002l-.002-.002-.635-.64a.44.44 0 0 1 0-.62L13.703 12z"
-                  class="wd-icon-fill"></path>
-              </g>
-            </svg></span></button>
-            </div>
-        </nav>
-        <p data-automation-id="jobOutOfText" aria-live="polite" class="css-rp1q6v">1 - 20 of 22 jobs</p>
+          <span class="job-list-item__show-icon" aria-hidden="true"></span>
+        </div>
+      </div>
     </div>
-</section>
+  </li>
+
+  <li data-qa="searchResultItem">
+    <div
+      class="search-results job-tile job-list-item"
+      data-bind="
+    css: { 'job-list-item--active': job.isActive, 'job-list-item--focus': hasFocus, 'job-list-item--with-image': mainContentConfig().isImageVisible },
+    style: mediaStyles
+"
+    >
+      <a
+        class="job-list-item__link"
+        data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    "
+        href="https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Argano-Careers/job/1095/?keyword=Power+Platform&amp;mode=location"
+        aria-labelledby="1095"
+      ></a>
+      <div
+        class="job-list-item__link"
+        data-bind="click: () =&gt; openJobPreview(job.id)"
+      >
+        <div class="job-list-item__content">
+          <search-result-item-header
+            data-bind="attr: { id: ariaLabelledByIdJob }"
+            params="
+                    job: job,
+                    headerInformationConfig: headerInformationConfig,
+                    customizationParams: customizationParams,
+                    jobInfoDisplayed: jobInfoDisplayed,
+                    jobInfoDisplay: jobInfoDisplay,
+                    jobInfoSeparator: jobInfoSeparator,
+                    jobInfoTagsConfiguration: jobInfoTagsConfiguration,
+                    jobTags: jobTags,
+                    jobTagsConfig: jobTagsConfig,
+                    shouldShowDistance: shouldShowDistance,
+                    viewType: 'listView',
+                    dffs: dffs
+                "
+            id="1095"
+            ><div
+              class="job-tile__header job-tile__header--job-info-tags"
+              data-bind="css: { 'job-tile__header--job-info-tags': jobInfoTagsConfiguration() === 'inHeader' }"
+            >
+              <div class="job-tile__header-container">
+                <span class="job-tile__title" data-bind="text: job.title"
+                  >Senior Client Executive, Dynamics365 - Retail</span
+                >
+              </div>
+              <div
+                class="job-tile__subheader"
+                data-bind="css: { 'job-tile__subheader--apply-button-visible': enableApplyButton() &amp;&amp; isApplyButtonVisible }"
+              >
+                <div
+                  class="job-list-item__job-info-container"
+                  data-bind="react: { component: 'search-result-item-job-info', props: { job, jobInfoDisplayed, jobInfoDisplay, jobInfoSeparator, distanceInfo, shouldShowDistance, areJobTagsVisible, viewType, dffs } }"
+                >
+                  <ul
+                    class="job-list-item__job-info-items job-list-item__job-info-items--dot job-list-item__job-info-items--label job-list-item__job-info-items--tags-visible"
+                  >
+                    <li class="job-list-item__job-info-item">
+                      <div
+                        class="job-list-item__job-info-label job-list-item__job-info-label--locations"
+                      >
+                        Locations
+                      </div>
+                      <div class="job-list-item__job-info-value-container">
+                        <div class="job-list-item__job-info-value">
+                          <posting-locations
+                            params="primaryLocation: primaryLocation, secondaryLocations: secondaryLocations, workplaceType: { name: workplaceType, code: workplaceTypeCode, }, mode:'tooltip'"
+                          >
+                            <span data-bind="html: primaryLocation"
+                              >United States</span
+                            >
+
+                            <span data-bind="text: workplaceTypeName"
+                              >(Remote)</span
+                            >
+                          </posting-locations>
+                        </div>
+                        <div class="icon-separator-dot"></div>
+                      </div>
+                    </li>
+                    <li class="job-list-item__job-info-item">
+                      <div
+                        class="job-list-item__job-info-label job-list-item__job-info-label--posting-date"
+                      >
+                        Posting Dates
+                      </div>
+                      <div class="job-list-item__job-info-value-container">
+                        <div class="job-list-item__job-info-value">
+                          06/26/2025
+                        </div>
+                        <div class="icon-separator icon-separator-dot"></div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="job-tile__subheader-additional-container">
+                  <job-tags params="jobTags: jobTags, layoutStyle: layoutStyle"
+                    ><div class="job-tags"></div>
+                  </job-tags>
+                </div>
+              </div>
+            </div>
+          </search-result-item-header>
+        </div>
+        <div class="job-list-item__actions-container">
+          <div class="job-list-item__actions">
+            <div>
+              <button
+                class="favourite-star job-tile__favorited focused-tooltip"
+                data-bind="
+                            click: toggleFavourite,
+                            clickBubble: false,
+                            css: { 'favourite-star--active': isFavourite },
+                            i18nAttr: { title: !isFavourite() ? 'favourite.a11y.pin-job' : 'favourite.a11y.unpin-job',
+                            'aria-label': !isFavourite() ? 'favourite.a11y.pin-job' : 'favourite.a11y.unpin-job' }
+                        "
+                title="Add Job to My Job Selections"
+                aria-label="Add Job to My Job Selections"
+              ></button>
+            </div>
+          </div>
+
+          <span class="job-list-item__show-icon" aria-hidden="true"></span>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>

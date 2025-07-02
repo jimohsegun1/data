@@ -154,13 +154,13 @@ def scrape_rsm_jobs():
 
                         job_data = {
                             "title": title,
-                            "locationn": locationn,
+                            # "locationn": locationn,
                             "job_id": job_id,
                             "level": level,
                             "job_url": job_url,
                             "keyword": keyword,
                         }
-                        all_data.append(job_data)
+                        # all_data.append(job_data)
                         log_and_print(f"✅ Scraped job: {title} | {locationn} | {job_id} | {level} | {job_url} | {keyword}")
 
 
